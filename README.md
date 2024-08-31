@@ -1,4 +1,4 @@
 # NmapCommander
 A simple tool that allows you to put together nmap commands
 
-![NmapCommander](https://github.com/user-attachments/assets/aaf7b104-a5d2-47b8-903e-c1ef6ab6a89a)
+![Nmapcommander](https://github.com/user-attachments/assets/f82a7f0d-1119-4ef3-8379-098b0955df88)
