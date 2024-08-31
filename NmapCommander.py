@@ -83,7 +83,7 @@ def copy_to_clipboard():
 
 # Hauptfenster
 root = tk.Tk()
-root.title("Nmap GUI Tool")
+root.title("NmapCommander")
 root.geometry("600x500")
 root.resizable(True, True)
 
